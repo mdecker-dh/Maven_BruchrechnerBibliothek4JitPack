@@ -2,23 +2,10 @@
 
 <br>
 
-Dieses Repo enthält ein Maven-Projekt mit einer kleinen Bibliothek für Bruchrechnen.
-Wenn auf einem Rechner für dieses Projekt erfolgreich die Phase `install` ausgeführt
-wurden, dann kann in einem anderen Maven-Projekt die Bibliothek unter der folgenden
-Abhängigkeit referenziert werden:
+Dieses Repo enthält ein Maven-Projekt mit einer kleinen Bibliothek für Bruchrechnen, die 
+über [JitPack](https://docs.jitpack.io/intro/) bereitgestellt wird:
 
-```
-<dependency>
-    <groupId>de.eldecker.dhbw</groupId>
-    <artifactId>bruchrechnen</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-</dependency>
-```
-
-<br>
-
-Siehe [hier](https://github.com/MDecker-MobileComputing/Maven_BruchrechnerBibliothekVerwender )
-für ein Maven-Projekt, dass diese Bibliothek verwendet.
+https://jitpack.io/#mdecker-dh/Maven_BruchrechnerBibliothek4JitPack/
 
 <br>
 
