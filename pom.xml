@@ -6,9 +6,10 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>de.eldecker.dhbw</groupId>
+    <!-- für JitPack muss GroupID com.github.<GitHubUserName> sein -->
+    <groupId>com.github.mdecker-dh</groupId>
     <artifactId>bruchrechnen</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <packaging>jar</packaging>
 
