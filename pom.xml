@@ -9,7 +9,7 @@
     <!-- für JitPack muss GroupID com.github.<GitHubUserName> sein -->
     <groupId>com.github.mdecker-dh</groupId>
     <artifactId>bruchrechnen</artifactId>
-    <version>1.0.0</version>
+    <version>main-SNAPSHOT</version><!-- Dummy-Wert? -->
 
     <packaging>jar</packaging>
 
