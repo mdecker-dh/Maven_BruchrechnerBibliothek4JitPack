@@ -9,6 +9,31 @@ https://jitpack.io/#mdecker-dh/Maven_BruchrechnerBibliothek4JitPack/
 
 <br>
 
+Einträge in `pom.xml` von Verwender:
+
+```
+  <repositories>
+
+      <repository>
+          <id>jitpack.io</id>
+          <url>https://jitpack.io</url>
+      </repository>
+
+  </repositories>
+
+
+  <dependencies>
+
+    <dependency>
+       <groupId>com.github.mdecker-dh</groupId>
+       <artifactId>Maven_BruchrechnerBibliothek4JitPack</artifactId>
+       <version>1.0.0</version>
+    </dependency>
+
+</dependencies>
+```
+<br>
+
 ----
 
 ## License ##
