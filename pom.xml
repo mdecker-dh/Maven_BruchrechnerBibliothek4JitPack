@@ -8,8 +8,8 @@
 
     <!-- für JitPack muss GroupID com.github.<GitHubUserName> sein -->
     <groupId>com.github.mdecker-dh</groupId>
-    <artifactId>bruchrechnen</artifactId>
-    <version>main-SNAPSHOT</version><!-- Dummy-Wert? -->
+    <artifactId>bruchrechnen</artifactId><!-- JitPack nimmt automatisch RepoName -->
+    <version>main-SNAPSHOT</version><!-- Dummy-Wert -->
 
     <packaging>jar</packaging>
 
