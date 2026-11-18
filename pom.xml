@@ -5,9 +5,8 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-
-    <!-- für JitPack muss GroupID com.github.<GitHubUserName> sein -->
-    <groupId>com.github.mdecker-dh</groupId>
+    
+    <groupId>com.github.mdecker-dh</groupId><!-- für JitPack muss GroupID com.github.<GitHubUserName> sein -->
     <artifactId>bruchrechnen</artifactId><!-- JitPack nimmt automatisch RepoName -->
     <version>main-SNAPSHOT</version><!-- Dummy-Wert -->
 
